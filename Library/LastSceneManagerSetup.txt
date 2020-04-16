@@ -2,3 +2,6 @@ sceneSetups:
 - path: Assets/CarTest1.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/Scenes/Windridge City Demo Scene.unity
+  isLoaded: 1
+  isActive: 0
